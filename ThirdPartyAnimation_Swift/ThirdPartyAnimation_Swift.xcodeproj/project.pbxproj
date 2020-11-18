@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -101,7 +101,6 @@
 				EA992F4BF4CC1C753E58E305 /* Pods-ThirdPartyAnimation_SwiftUITests.debug.xcconfig */,
 				0ACCA08C052DC6F832BBC693 /* Pods-ThirdPartyAnimation_SwiftUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -575,7 +574,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ChengduShawCompany.ThirdPartyAnimation-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = "ChengduPaiyeCompany.ML-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -595,7 +594,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "ChengduShawCompany.ThirdPartyAnimation-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = "ChengduPaiyeCompany.ML-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
